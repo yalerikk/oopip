@@ -48,4 +48,4 @@
     <li>Для чтения объектов использовать ObjectInputStream и метод readObject(), преобразуя возвращаемый объект к нужному типу.</li>
 </ul>
 
-[Перейти на папку с решением](https://github.com/yalerikk/oopip)
+[Перейти на папку с решением](https://github.com/yalerikk/oopip/tree/main/v25_3)
